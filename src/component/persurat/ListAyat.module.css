@@ -1,0 +1,26 @@
+.font2 {
+    font-size: 1.5rem; /* 24px */
+    line-height: 2rem; /* 32px */
+}
+
+
+.list-ayat {
+    font-family: 'utsmani', serif;
+}
+.font3 {
+    font-size: 1.875rem; /* 30px */
+    line-height: 2.25rem; /* 36px */
+}
+.font4{
+    font-size: 2.25rem; /* 36px */
+    line-height: 2.5rem; /* 40px */
+}
+.font5 {
+    font-size: 3rem; /* 48px */
+    line-height: 1;
+}
+
+.font6{
+    font-size: 3.75rem; /* 60px */
+    line-height: 1;
+}
